@@ -9,5 +9,4 @@
     - Example Reward Functions
   - Other Parameters
   - Training Locally
-    - Guides
 - Helpful Links
