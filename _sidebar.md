@@ -4,9 +4,9 @@
   - [Getting Started](getting-started/README.md)
     - [Creating an Account](getting-started/account.md)
     - [Creating your first model](getting-started/first-model.md)
-- Training Models
-  - Reward Functions
-    - Example Reward Functions
-  - Other Parameters
-  - Training Locally
-- Helpful Links
+- [Training Models](training-models/README.md)
+  - [Reward Functions](training-models/reward-functions/README.md)
+    - [Example Reward Functions](training-models/reward-functions/examples.md)
+  - [Other Parameters](training-models/hyper-parameters.md)
+  - [Training Locally](training-models/training-locally.md)
+- [Other Resources](other-resources.md)
