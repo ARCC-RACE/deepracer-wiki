@@ -16,5 +16,3 @@ Build models in Amazon SageMaker and train, test, and iterate quickly and easily
 
 ### League
 Compete in the world’s first global, autonomous racing league, to race for prizes and glory and a chance to advance to the Championship Cup. Every month, there are races on the simulator, combined with in-person events spread throughout the year. 
-
-# Why DeepRacer?

@@ -1,4 +1,7 @@
 # Examples
+###### By Caelin Sutch
+
+
 On this page, I've compiled a list of examples that I've found all over the web for reward functions. Note that not all of these functions may work with a straight copy and past, as the parameter names may have changed. 
 
 
@@ -6,9 +9,9 @@ On this page, I've compiled a list of examples that I've found all over the web 
 | :---: |:---:|:-----|
 |1|["Center Line Square Root"](#center-line-square-root)|A Pure Pursuit algorithm inspired approach|
 |2|["Waypoint System"](#waypoint-system)|Use waypoints and lane preference to encourage a racing line|
-|3|["Self Motivator"](#self-motivator)|Add an exponential speed component|
-|4|["SelfMotivator"](|Simply encourage getting around the track in as few steps as possible|
-|5|in development||
+|3|["Pure Pursuit"](#pure-pursuit)|Add an exponential speed component|
+|4|["Self Motivator"](#self-motivator)|Simply encourage getting around the track in as few steps as possible|
+|5|Add Yours!||
 
 ## Center Line Square Root
 [Source](https://medium.com/proud2becloud/deepracer-our-journey-to-the-top-ten-257ff69922e)
@@ -127,7 +130,7 @@ def reward_function(params):
         return reward
 ```
 
-## SelfMotivator
+## Self Motivator
 [source](https://github.com/scottpletcher/deepracer/blob/master/iterations/v4-SelfMotivator.md)
 ```python
 def reward_function(params):

@@ -1,0 +1,9 @@
+To upload to the leader board you first need to create a "dummy" model through the DeepRacer console, you can set the time to train to 5 minutes and it shouldn't actually start any of the resources as by the time it's done creating them, it's already been 5 minutes. The annoying part is that the model information is sent off to a AWS API that is used for submitting the models, it doesn't look at anything in your account.
+
+So what you need to do is click on the "Simulation job" link in the DeepRacer console,![Screenshot for simluation job link](https://i.imgur.com/kJhcWxN.png) which will take you to the simulation job page. You need to click on the "Simulation Application" tab, and then look for the "SAGEMAKER_SHARED_S3_BUCKET" and "SAGEMAKER_SHARED_S3_PREFIX" for the bucket and prefix for the model files path respectively. ![Screenshot of simulation job variables we need](https://i.imgur.com/0e00Kdb.png)
+
+Now go over to S3 and into the bucket name we found before, and if the folder doesn't exist, create it, and then create a subfolder "model", so the path would look like "aws-deepracer-a47891ce-a399-4c5a-9d4b-1247210f56fb/DeepRacer-SageMaker-RoboMaker-comm-655569752434-20190614101732-1fa8b4af-38be-45f1-8a4b-bd845cf1f3d8/model". This where we drop three kinds of files which you can find in your local bucket files. The ".ckpt", "checkpoint" and "model_metadata.json" files are all to be put here. Like so ![what the bucket looks like after uploading files](https://i.imgur.com/mmdswwj.png) 
+
+Keep in mind, the "checkpoint" file determines which checkpoint actually gets used so you can check it by opening it in a text editor. Once the files are in, you can now submit in the leaderboard!
+
+You can check the evaluation job logs for any errors if it can't find the files. The "model_metadata.json" is important as it determines the action space which is used, but not putting it there will force the defaults to be used and screw up the evaluation job.

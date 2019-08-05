@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="640bd8fa-dfa5-4318-b220-e92c457684f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/training-models/tracks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training-models/trainining-locally/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training-models/trainining-locally/old/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training-models/trainining-locally/old/common-issues.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training-models/trainining-locally/old/hyperparameters.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training-models/trainining-locally/old/launching-eval.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training-models/trainining-locally/old/old-setup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/training-models/trainining-locally/old/uploading-to-leaderboard.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-models/action-space" beforeDir="false" afterPath="$PROJECT_DIR$/physical/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-models/hyper-parameters.md" beforeDir="false" afterPath="$PROJECT_DIR$/training-models/hyper-parameters.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-models/reward-functions/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/training-models/reward-functions/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/training-models/reward-functions/examples.md" beforeDir="false" afterPath="$PROJECT_DIR$/training-models/reward-functions/examples.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-models/training-locally.md" beforeDir="false" afterPath="$PROJECT_DIR$/training-models/action-space.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="192">
+              <first_editor relative-caret-position="162">
                 <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               </first_editor>
               <second_editor />
@@ -29,47 +43,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about-platform.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="401">
-                <caret line="17" column="230" selection-start-line="17" selection-start-column="230" selection-end-line="17" selection-end-column="230" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/getting-started/account.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="23" selection-start-column="23" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sidebar.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="112">
-                <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/getting-started/first-model.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="16">
-                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <first_editor relative-caret-position="433">
+                <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -77,11 +64,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/training-models/README.md">
+        <entry file="file://$PROJECT_DIR$/_sidebar.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="48">
-                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <first_editor relative-caret-position="176">
+                <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
               </first_editor>
               <second_editor />
             </state>
@@ -89,11 +76,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/training-models/hyper-parameters.md">
+        <entry file="file://$PROJECT_DIR$/physical/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="48">
-                <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="5" selection-end-column="154" />
+              <first_editor relative-caret-position="432">
+                <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -101,21 +88,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/training-models/training-locally.md">
+        <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/old/old-setup.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/training-models/reward-functions/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="64">
-                <caret line="4" column="397" selection-start-line="4" selection-start-column="397" selection-end-line="4" selection-end-column="397" />
+              <first_editor relative-caret-position="-255">
+                <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -123,11 +100,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/training-models/reward-functions/examples.md">
+        <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/old/uploading-to-leaderboard.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/old/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="224">
-                <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <first_editor relative-caret-position="80">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="176">
+                <caret line="5" column="118" lean-forward="true" selection-start-line="5" selection-start-column="118" selection-end-line="5" selection-end-column="118" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/old/common-issues.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="176">
+                <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
               </first_editor>
               <second_editor />
             </state>
@@ -147,27 +157,37 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/about-platform.md" />
         <option value="$PROJECT_DIR$/why.md" />
         <option value="$PROJECT_DIR$/getting-started/README.md" />
-        <option value="$PROJECT_DIR$/getting-started/account.md" />
         <option value="$PROJECT_DIR$/getting-started/first-model.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/_sidebar.md" />
         <option value="$PROJECT_DIR$/training-models/README.md" />
         <option value="$PROJECT_DIR$/training-models/parameters.md" />
-        <option value="$PROJECT_DIR$/training-models/hyper-parameters.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/training-models/action-space.md" />
         <option value="$PROJECT_DIR$/training-models/reward-functions/README.md" />
         <option value="$PROJECT_DIR$/training-models/reward-functions/examples.md" />
+        <option value="$PROJECT_DIR$/getting-started/account.md" />
+        <option value="$PROJECT_DIR$/about-platform.md" />
+        <option value="$PROJECT_DIR$/training-models/training-locally.md" />
+        <option value="$PROJECT_DIR$/training-models/tracks.md" />
+        <option value="$PROJECT_DIR$/training-models/trainining-locally/common-issues.md" />
+        <option value="$PROJECT_DIR$/training-models/hyper-parameters.md" />
+        <option value="$PROJECT_DIR$/training-models/trainining-locally/hyperparameters.md" />
+        <option value="$PROJECT_DIR$/training-models/trainining-locally/old-setup.md" />
+        <option value="$PROJECT_DIR$/training-models/trainining-locally/launching-eval.md" />
+        <option value="$PROJECT_DIR$/training-models/trainining-locally/uploading-to-leaderboard.md" />
+        <option value="$PROJECT_DIR$/training-models/trainining-locally/README.md" />
+        <option value="$PROJECT_DIR$/training-models/trainining-locally/old/README.md" />
+        <option value="$PROJECT_DIR$/physical/README.md" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_sidebar.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="809" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -184,22 +204,6 @@
               <item name="deepracer-wiki" type="b2602c69:ProjectViewProjectNode" />
               <item name="deepracer-wiki" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="deepracer-wiki" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deepracer-wiki" type="462c0819:PsiDirectoryNode" />
-              <item name="getting-started" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deepracer-wiki" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deepracer-wiki" type="462c0819:PsiDirectoryNode" />
-              <item name="training-models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="deepracer-wiki" type="b2602c69:ProjectViewProjectNode" />
-              <item name="deepracer-wiki" type="462c0819:PsiDirectoryNode" />
-              <item name="training-models" type="462c0819:PsiDirectoryNode" />
-              <item name="reward-functions" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -214,6 +218,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/training-models/trainining-locally/old" />
+      <recent name="$PROJECT_DIR$/training-models/trainining-locally" />
       <recent name="C:\Users\pc\Github\deepracer-wiki\getting-started" />
     </key>
   </component>
@@ -243,6 +249,7 @@
       <workItem from="1564172588456" duration="2960000" />
       <workItem from="1564249433202" duration="34000" />
       <workItem from="1564255022944" duration="740000" />
+      <workItem from="1565031245991" duration="2506000" />
     </task>
     <task id="LOCAL-00001" summary="Updated with Docsify">
       <created>1564081485540</created>
@@ -255,13 +262,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7905000" />
+    <option name="totallyTimeSpent" value="10411000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14111748" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14094433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -273,7 +280,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49960598" weight="0.19875292" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49960598" visible="true" weight="0.25307125" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49960598" visible="true" weight="0.25307125" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500394" side_tool="true" weight="0.32969603" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32969603" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -290,13 +297,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated with Docsify" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/why.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -319,36 +319,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        <state relative-caret-position="16">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/training-models/action-space.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="192">
-            <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <first_editor relative-caret-position="32">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getting-started/account.md">
+    <entry file="file://$PROJECT_DIR$/training-models/reward-functions/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="23" selection-start-column="23" selection-end-column="23" />
+          <first_editor relative-caret-position="32">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sidebar.md">
+    <entry file="file://$PROJECT_DIR$/training-models/reward-functions/examples.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="112">
-            <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <first_editor relative-caret-position="128">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>
@@ -364,49 +364,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/training-models/hyper-parameters.md">
+    <entry file="file://$PROJECT_DIR$/getting-started/account.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="48">
-            <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="5" selection-end-column="154" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training-models/training-locally.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training-models/reward-functions/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="64">
-            <caret line="4" column="397" selection-start-line="4" selection-start-column="397" selection-end-line="4" selection-end-column="397" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about-platform.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="401">
-            <caret line="17" column="230" selection-start-line="17" selection-start-column="230" selection-end-line="17" selection-end-column="230" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/training-models/reward-functions/examples.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="224">
-            <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <first_editor>
+            <caret column="23" selection-start-column="23" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
@@ -416,7 +378,141 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="48">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training-models/tracks.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="112">
+            <caret line="1" column="445" selection-start-line="1" selection-start-column="445" selection-end-line="1" selection-end-column="445" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training-models/hyper-parameters.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-735">
+            <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/old/hyperparameters.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="368">
+            <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/old/launching-eval.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="384">
+            <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/old/common-issues.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="7" column="64" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/old/old-setup.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-255">
+            <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="5" column="118" lean-forward="true" selection-start-line="5" selection-start-column="118" selection-end-line="5" selection-end-column="118" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/old/uploading-to-leaderboard.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/training-models/trainining-locally/old/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="80">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-platform.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="433">
+            <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/physical/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="432">
+            <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sidebar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
           </first_editor>
           <second_editor />
         </state>

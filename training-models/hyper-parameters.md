@@ -5,7 +5,7 @@ On the console below the reward function, you'll see a dropdown for hyper parame
 
 Hyperparameters are variables to control your reinforcement learning training. They can be tuned to optimize the training time and your model performance.
 
-###Gradient descent batch size
+### Gradient descent batch size
 The number of recent vehicle experiences sampled at random from an experience buffer and used for updating the underlying deep-learning neural network weights. Random sampling helps reduce correlations inherent in the input data. Use a larger batch size to promote more stable and smooth updates to the neural network weights, but be aware of the possibility that the training may be longer or slower.
 
 The batch is a subset of an experience buffer that is composed of images captured by the camera mounted on the AWS DeepRacer vehicle and actions taken by the vehicle.
