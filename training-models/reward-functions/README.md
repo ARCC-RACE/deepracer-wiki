@@ -60,7 +60,7 @@ Number of steps completed. One step is one (state, action, next state, reward tu
 The observed speed of the vehicle, in meters per second (m/s).
 
 #### steering_angle
-######float [-30, 30]
+###### float [-30, 30]
 
 Steering angle, in degrees, of the front wheels from the center line of the vehicle. The negative sign (-) means steering to the right and the positive (+) sign means steering to the left.
 
