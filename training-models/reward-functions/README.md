@@ -20,7 +20,7 @@ The reward function input parameters (params) are passed in as a dictionary obje
 A boolean flag to indicate if the vehicle is on-track or off-track. The vehicle is off-track (False) if all of its wheels are outside of the track borders. It's on-track (True) if any of the wheels is inside the two track borders.
 
 #### x
-######float
+###### float
 
 Location in meters of the vehicle center along the x axis of the simulated environment containing the track. The origin is at the lower-left corner of the simulated environment.
 
@@ -50,7 +50,7 @@ Heading direction in degrees of the vehicle with respect to the x-axis of the co
 Percentage of the track complete.
 
 #### steps
-######integer
+###### integer
 
 Number of steps completed. One step is one (state, action, next state, reward tuple).
 
@@ -75,7 +75,7 @@ Track width in meters.
 An ordered list of milestones along the track center. Each milestone is described by a coordinate of (x, y). A list of waypoints for each track is found in the resources section
 
 #### closest_waypoints
-######(integer, integer)
+###### (integer, integer)
 
 The zero-based indices of the two neighboring waypoints closest to the vehicle's current position of (x, y). The distance is measured by the Euclidean distance from the center of the vehicle.
 
