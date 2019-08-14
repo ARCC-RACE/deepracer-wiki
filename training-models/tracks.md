@@ -1,2 +1,0 @@
-# Tracks
-Every month or so Amazon releases a new track. We wrote a [guide](https://medium.com/@autonomousracecarclub/visualizing-aws-deepracer-waypoints-9b94e6311b7a) on visualizing the waypoints on these maps, and all of the maps are included in the [DeepRacer for Dummies](https://github.com/ARCC-RACE/deepracer-for-dummies) github. The track selection for the local simulation is controlled via an environment variable in the .env file located in the deepracer-for-dummies/docker directory
