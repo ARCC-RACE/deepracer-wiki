@@ -1,46 +1,45 @@
-* <a href="https://arcc-race.github.io/deepracer-wiki/#/README">Home</a>
-* <a Getting Started]href="getting-started/README.md">What is DR</a>
-    * <a What is DR?]href="https://arcc-race.github.io/deepracer-wiki/#/getting-started/README?id=what-are-deepracers"
-    * <a Why DR?]href="https://arcc-race.github.io/deepracer-wiki/#/getting-started/README?id=why-deepracer"
-    * <a Navigating the knowledge base]href="https://arcc-race.github.io/deepracer-wiki/#/getting-started/README?id=navigating-the-knowledge-base"
-    * <a ML overview]href="https://arcc-race.github.io/deepracer-wiki/#/getting-started/README?id=ml-overview"
-    * <a Reinforcement Learning]href="https://arcc-race.github.io/deepracer-wiki/#/getting-started/README?id=reinforcement-learning"
-* <a The Community]href="https://arcc-race.github.io/deepracer-wiki/#/the-community/README"
-    * <a Background]href="https://arcc-race.github.io/deepracer-wiki/#/the-community/README?id=background"
-    * <a How to join]href="https://arcc-race.github.io/deepracer-wiki/#/the-community/README?id=how-to-join"
-    * <a Who's who]href="https://arcc-race.github.io/deepracer-wiki/#/the-community/README?id=who's-who"
-    * <a Rules]href="https://arcc-race.github.io/deepracer-wiki/#/the-community/README?id=rules"
-    * <a Chat archive]href="https://arcc-race.github.io/deepracer-wiki/#/the-community/README?id=chat-archive"
-* <a Training Technique]href="https://arcc-race.github.io/deepracer-wiki/#/training-technique/README"
-    * <a Overview of contributing aspects]href="https://arcc-race.github.io/deepracer-wiki/#/training-technique/README?id=overview-of-contributing-aspects"
-    * <a Training process]href="https://arcc-race.github.io/deepracer-wiki/#/training-technique/README?id=training-process"
-    * <a Official Cloud vs Local Cloud vs Local Local]href="https://arcc-race.github.io/deepracer-wiki/#/training-technique/README?id=training-methods"
-    * <a Reward functions]href="https://arcc-race.github.io/deepracer-wiki/#/training-technique/README?id=reward-functions"
-    * <a Action spaces]href="https://arcc-race.github.io/deepracer-wiki/#/training-technique/README?id=action-spaces"
-    * <a Hyperparameters]href="https://arcc-race.github.io/deepracer-wiki/#/training-technique/README?id=hyperparameters" 
-    * <a Execution href="duration, tracks etc"]href="https://arcc-race.github.io/deepracer-wiki/#/training-technique/README?id=execution"
-    * <a Notebook analysis]href="https://arcc-race.github.io/deepracer-wiki/#/training-technique/README?id=notebook-analysis"
-* <a Cloud training]href="https://arcc-race.github.io/deepracer-wiki/#/cloud-training/README"
-    * <a Cloud training process]href="https://arcc-race.github.io/deepracer-wiki/#/cloud-training/README?id=process"
-* <a Local Training]href="https://arcc-race.github.io/deepracer-wiki/#/local-training/README"
-    * <a Concept & principles]href="https://arcc-race.github.io/deepracer-wiki/#/local-training/README?id=concept-&-principles"
-    * <a The constituent parts]href="https://arcc-race.github.io/deepracer-wiki/#/local-training/README?id=the-constituent-parts"
-    * <a Getting going - the repos]href="https://arcc-race.github.io/deepracer-wiki/#/local-training/README?id=getting-started"
-    * <a Hardware requirements & compatibility]href="https://arcc-race.github.io/deepracer-wiki/#/local-training/README?id=hardware-requirements-and-compatibility" 
-    * <a Local training process]href="https://arcc-race.github.io/deepracer-wiki/#/local-training/README?id=local-training-process"
-    * <a Local training in the cloud]href="https://arcc-race.github.io/deepracer-wiki/#/local-training/README?id=local-training-in-the-cloud"
-    * <a Problem solving]href="https://arcc-race.github.io/deepracer-wiki/#/local-training/README?id=problem-solving"
-* <a Racing]href="https://arcc-race.github.io/deepracer-wiki/#/racing/README"
-    * <a Types of Races]href="https://arcc-race.github.io/deepracer-wiki/#/racing/README?id=types-of-races"
-    * <a Virtual League Tips]href="https://arcc-race.github.io/deepracer-wiki/#/racing/README?id=virtual-league-tips"
-    * <a Physical Race Tips]href="https://arcc-race.github.io/deepracer-wiki/#/racing/README?id=physical-race-tips"
-* <a Machine Learning Theory]href="https://arcc-race.github.io/deepracer-wiki/#/machine-learning-theory/README"
-* <a Meet-ups]href="https://arcc-race.github.io/deepracer-wiki/#/meetups/README"
-    * <a List of locations]href="https://arcc-race.github.io/deepracer-wiki/#/meetups/README?id=list-of-locations"
-    * <a Upcoming events]href="https://arcc-race.github.io/deepracer-wiki/#/meetups/README"?id=upcoming-events"
-    * <a How to run a Meetup]href="https://arcc-race.github.io/deepracer-wiki/#/meetups/README?id=how-to-run-a-meetup"
-* <a Library]href="https://arcc-race.github.io/deepracer-wiki/#/library/README" 
-* <a Getting help]href="https://arcc-race.github.io/deepracer-wiki/#/getting-help/README"
+* [Home](/#/README)
+* [Getting Started](getting-started/README.md)
+    * [What is DR?](/#/getting-started/README?id=what-are-    * [Why DR?](/#/getting-started/README?id=why-    * [Navigating the knowledge base](/#/getting-started/README?id=navigating-the-knowledge-base)
+    * [ML overview](/#/getting-started/README?id=ml-overview)
+    * [Reinforcement Learning](/#/getting-started/README?id=reinforcement-learning)
+* [The Community](/#/the-community/README)
+    * [Background](/#/the-community/README?id=background)
+    * [How to join](/#/the-community/README?id=how-to-join)
+    * [Who's who](/#/the-community/README?id=who's-who)
+    * [Rules](/#/the-community/README?id=rules)
+    * [Chat archive](/#/the-community/README?id=chat-archive)
+* [Training Technique](/#/training-technique/README)
+    * [Overview of contributing aspects](/#/training-technique/README?id=overview-of-contributing-aspects)
+    * [Training process](/#/training-technique/README?id=training-process)
+    * [Official Cloud vs Local Cloud vs Local Local](/#/training-technique/README?id=training-methods)
+    * [Reward functions](/#/training-technique/README?id=reward-functions)
+    * [Action spaces](/#/training-technique/README?id=action-spaces)
+    * [Hyperparameters](/#/training-technique/README?id=hyperparameters) 
+    * [Execution (duration, tracks etc)](/#/training-technique/README?id=execution)
+    * [Notebook analysis](/#/training-technique/README?id=notebook-analysis)
+* [Cloud training](/#/cloud-training/README)
+    * [Cloud training process](/#/cloud-training/README?id=process)
+* [Local Training](/#/local-training/README)
+    * [Concept & principles](/#/local-training/README?id=concept-&-principles)
+    * [The constituent parts](/#/local-training/README?id=the-constituent-parts)
+    * [Getting going - the repos](/#/local-training/README?id=getting-started)
+    * [Hardware requirements & compatibility](/#/local-training/README?id=hardware-requirements-and-compatibility) 
+    * [Local training process](/#/local-training/README?id=local-training-process)
+    * [Local training in the cloud]((/#/local-training/README?id=local-training-in-the-cloud))
+    * [Problem solving](/#/local-training/README?id=problem-solving)
+* [Racing](/#/racing/README)
+    * [Types of Races](/#/racing/README?id=types-of-races)
+    * [Virtual League Tips](/#/racing/README?id=virtual-league-tips)
+    * [Physical Race Tips](/#/racing/README?id=physical-race-tips)
+* [Machine Learning Theory](/#/machine-learning-theory/README)
+* [Meet-ups](/#/meetups/README)
+    * [List of locations]((/#/meetups/README?id=list-of-locations))
+    * [Upcoming events](/#/meetups/README)?id=upcoming-events)
+    * How to run a Meetup
+* Library 
+    * Cross links to useful resources elsewhere 
+* Getting help
     * FAQ
     * Ask the community on Slack 
     * Live 'ask an expert' sessions 
