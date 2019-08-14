@@ -26,6 +26,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -73,7 +74,7 @@
       <workItem from="1564249433202" duration="34000" />
       <workItem from="1564255022944" duration="740000" />
       <workItem from="1565031245991" duration="2506000" />
-      <workItem from="1565805737492" duration="3944000" />
+      <workItem from="1565805737492" duration="4603000" />
     </task>
     <task id="LOCAL-00001" summary="Updated with Docsify">
       <created>1564081485540</created>
