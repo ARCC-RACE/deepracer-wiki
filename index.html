@@ -14,8 +14,25 @@
     window.$docsify = {
       name: 'DeepRacer Wiki',
       repo: 'ARCC-RACE/deepracer-wiki',
+      // loadSidebar: true,
+      auto2top: true,
+      executeScript: true,
       loadSidebar: true,
-
+      loadNavbar: true,
+      mergeNavbar: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      ga: 'UA-106147152-1',
+      search: {
+        noData: {
+          '/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': 'Search'
+        }
+      },
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>

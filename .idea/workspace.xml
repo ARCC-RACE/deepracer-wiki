@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="640bd8fa-dfa5-4318-b220-e92c457684f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/library.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-training/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-training.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getting-help/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/getting-help.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getting-started/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/getting-started.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local-training/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/local-training.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine-learning-theory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/machine-learning-theory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meet-ups/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/meet-ups.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/racing/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/racing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the-community/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/the-community.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/training-technique/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/training-technique.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,8 +40,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Github\deepracer-wiki\racing" />
       <recent name="D:\Github\deepracer-wiki" />
+      <recent name="D:\Github\deepracer-wiki\racing" />
       <recent name="$PROJECT_DIR$/training-models/trainining-locally/old" />
       <recent name="$PROJECT_DIR$/training-models/trainining-locally" />
       <recent name="C:\Users\pc\Github\deepracer-wiki\getting-started" />
@@ -63,7 +74,7 @@
       <workItem from="1564249433202" duration="34000" />
       <workItem from="1564255022944" duration="740000" />
       <workItem from="1565031245991" duration="2506000" />
-      <workItem from="1565805737492" duration="3150000" />
+      <workItem from="1565805737492" duration="3702000" />
     </task>
     <task id="LOCAL-00001" summary="Updated with Docsify">
       <created>1564081485540</created>
