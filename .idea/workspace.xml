@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="640bd8fa-dfa5-4318-b220-e92c457684f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-training/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/getting-help/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local-training/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machine-learning-theory/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meet-ups/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/racing/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/the-community/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getting-started/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/getting-started/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getting-started/account.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/getting-started/first-model.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/physical/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/training-technique/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/action-space.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/hyper-parameters.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/reward-functions/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/reward-functions/examples.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/reward-functions/testing-reward-functions" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/tracks.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/trainining-locally/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/trainining-locally/old/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/trainining-locally/old/common-issues.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/trainining-locally/old/hyperparameters.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/trainining-locally/old/launching-eval.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/trainining-locally/old/old-setup.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-models/trainining-locally/old/uploading-to-leaderboard.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-platform.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +68,7 @@
       <workItem from="1564249433202" duration="34000" />
       <workItem from="1564255022944" duration="740000" />
       <workItem from="1565031245991" duration="2506000" />
-      <workItem from="1565805737492" duration="2297000" />
+      <workItem from="1565805737492" duration="2457000" />
     </task>
     <task id="LOCAL-00001" summary="Updated with Docsify">
       <created>1564081485540</created>
