@@ -5,6 +5,7 @@
 * [Cloud training](cloud-training.md)
 * [Local Training](local-training.md)
 * [Racing](racing.md)
+* [Analysis] (analysis.md)
 * [Machine Learning Theory](machine-learning-theory.md)
 * [Meet-ups](meet-ups.md)
 * [Library](library.md)
