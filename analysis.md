@@ -4,7 +4,7 @@
 ## Training and evaluation outputs
 A substantial amount of data about model performance is available via channels beyond the Deepracer Console summary statistics and Kinesis feed. The nonvolatile outputs from the training and testing processes are persisted in two locations: the S3 DeepRacer bucket, and the CloudWatch logfile. The CloudWatch logfile contains traces of the intermediate training state, which makes it particularly helpful in assessing the quality of the reward function and convergence of the model.
 
-The S3 bucket contains file dumps that contain final high level metrics gathered from the training and evaluation, the robomaker environment settings, the trained model weight files, and the python reward function.
+The S3 bucket contains file dumps with final high level metrics gathered from the training and evaluation, the robomaker environment settings, the trained model weight files, and the python reward function.
 
 ### S3 file manifest
 | Path                                              | File Name                         | Content Summary                                                                 |
