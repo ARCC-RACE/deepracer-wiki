@@ -20,7 +20,7 @@ The S3 bucket contains file dumps with final high level metrics gathered from th
 |/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]/model | [1]_Step-[2].ckpt.data-[3]-of-[4]	||		
 |/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]/model | [1]_Step-[2].ckpt.index			||
 |/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]/model | [1]_Step-[2].ckpt.meta			||
-|/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]/model | model_[1].pb			            ||
+|/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]/model | model_[1].pb			            |Tensorflow protobuf file|
 |/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]/model | model_metadata.json	            | Vehicle configuration and action space|
 |/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]       | eval_params_[1].yaml	            | Contains an index of services and S3 files attached to the evaluation instance|
 |/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]       | training_params_[1].yaml	        | Contians an index of services and S3 files attached to the training instance|
