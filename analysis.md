@@ -7,11 +7,6 @@ A substantial amount of data about model performance is available via channels b
 The S3 bucket contains file dumps with final high level metrics gathered from the training and evaluation, the robomaker environment settings, the trained model weight files, and the python reward function.
 
 ### S3 file manifest
-<style>
-table {
-    width:100%;
-}
-</style>
 
 | Path                                              | File Name                         | Content Summary                                                                 |
 | ------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------- | 
