@@ -7,6 +7,12 @@ A substantial amount of data about model performance is available via channels b
 The S3 bucket contains file dumps with final high level metrics gathered from the training and evaluation, the robomaker environment settings, the trained model weight files, and the python reward function.
 
 ### S3 file manifest
+<style>
+table {
+    width:100%;
+}
+</style>
+
 | Path                                              | File Name                         | Content Summary                                                                 |
 | ------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------- | 
 |/DeepRacer-Metrics	                                | EvaluationMetrics-[1].json        | Summary results of evaluation. Data is presented at "trial" granularity.	      |
@@ -26,6 +32,7 @@ The S3 bucket contains file dumps with final high level metrics gathered from th
 |/DeepRacer-SageMaker-rlmdl-[SERIAL]/dr-sm-rltj--[SERIAL]/output    |	model.tar.gz    | Trained model weights file|
 |/model-metadata/[MODEL_NAME]                       | model_metadata.json               | Describes the configuration of the deepracer used to train the model|
 |/reward-functions/[MODEL_NAME]                     | reward_function.py	            | The python reward function entered into the deepracer console|
+
 
 #### EvaluationMetrics-[1].json
 | Field                                             | Description                       |
