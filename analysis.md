@@ -17,7 +17,7 @@ table {
 | ------------------------------------------------- | --------------------------------- | ------------------------------------------------------------------------------- | 
 |/DeepRacer-Metrics	                                | EvaluationMetrics-[1].json        | Summary results of evaluation. Data is presented at "trial" granularity.	      |
 |/DeepRacer-Metrics	                                | TrainingMetrics-[1].json          | Summary results of training. Data is presented at "Episode" granularity.	      |
-|/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]/ip    | done                              | Contains the word "done". Appears to be used as a mutex |
+|/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]/ip    | done                              | Contains the word "done". Appears to be used as a semaphore |
 |/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]/ip    | hyperparameters.json              | Model hyperparameters		
 |/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]/ip    | ip.json	                        | An IP address	|
 |/DeepRacer-SageMaker-RoboMaker-comm-[SERIAL]/model | .coach_checkpoint			        ||
