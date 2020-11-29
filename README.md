@@ -85,6 +85,8 @@ Headline categories:
     * Virtual League Tips
         * Race track lessons 
     * Physical races Tips
+* Analysis
+    * S3 File manifest
 * Machine Learning Theory 
 * Meet-ups 
     * Overview 
